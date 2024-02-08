@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivani-sundriyal-3b88931b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivani Suryavanshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivani-sundriyal-3b88931b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivani Sundriyal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sun_shivani777"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sun_shivani777" height="30" width="40" /></a>
 <a href="https://leetcode.com/shivani_sundriyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivani_sundriyal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mbi202067x/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mbi202067x" height="30" width="40" /></a>
