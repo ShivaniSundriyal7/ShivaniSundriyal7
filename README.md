@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivani Sundriyal</h1>
+<h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">Driven by curiosity, fueled by challenges, and powered by code</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
